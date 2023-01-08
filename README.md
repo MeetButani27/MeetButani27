@@ -75,22 +75,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=MeetButani27&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetButani27&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
