@@ -1,3 +1,10 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=MeetButani27&&style=flat-square" align="right" />
+</div>  
+  
+
+<br/>  
+
 <div align="center">
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" style="width: 100%" />
 </div>  
@@ -68,18 +75,22 @@
 
 
 ## Github Stats  
+<table><tr><td valign="top" width="50%">
+
 <img src="https://github-readme-stats.vercel.app/api?username=MeetButani27&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetButani27&hide_border=true&layout=compact" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetButani27&hide_border=true&layout=compact" align="left" />
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MeetButani27&&style=flat-square" align="center" />
-</div>  
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
